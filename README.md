@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi There! 👋 I'm Harsith</h1>
+  <h1>Hi There! 👋 I'm Dhanushkaran M</h1>
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Building+Intelligent+Systems;2nd+Year+CSE+%40+VSB+College" alt="Typing SVG" />
 </div>
@@ -19,8 +19,8 @@
 
 ### 🔥 About Me
 
-- 🎓 **2nd Year Computer Science Student** at VSB College of Engineering & Technology
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+- 🎓 **Final Year AI&DS Student** at VSB College of Engineering & Technology
+- 🤖 Passionate about **Artificial Intelligence, LLM & Data Science**
 - 🌱 Currently exploring **Deep Learning, Generative AI & Computer Vision**
 - 💡 Love turning ideas into real-world projects
 - 📫 Open for collaborations & learning opportunities
@@ -37,9 +37,9 @@
 
 ### 🚀 Featured Projects
 
-**Project 1** — [AI Image Classifier](link)  
-**Project 2** — [Smart Attendance System using Face Recognition](link)  
-**Project 3** — [Your Third Project](link)
+**Project 1** — [Tree Plantation and Carbon Calculator](link)  
+**Project 2** — [ASL and ISL Sign Language](link)  
+
 
 ---
 

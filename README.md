@@ -6,14 +6,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/S-harsith">
-    <img src="https://github-readme-stats.vercel.app/api?username=S-harsith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats"/>
-  </a>
-  <a href="https://github.com/S-harsith">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-harsith&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
 
 ---
 

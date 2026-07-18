@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi There! 👋 I'm Dhanushkaran M</h1>
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Building+Intelligent+Systems;2nd+Year+CSE+%40+VSB+College" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Building+Intelligent+Systems;Final Year+Year+AI&DS+%40+VSB+College" alt="Typing SVG" />
 </div>
 
 <br>

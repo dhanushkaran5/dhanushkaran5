@@ -22,15 +22,16 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,tailwind,nodejs,express,mysql,mongodb,git,docker,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,tailwind,nodejs,express,mysql,mongodb,git,figma" />
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-**Project 1** — [Tree Plantation and Carbon Calculator](link)  
-**Project 2** — [ASL and ISL Sign Language](link)  
+**Project 1** — [Tree Plantation and Carbon Calculator](https://github.com/dhanushkaran5/Tree-Plantation-Calculator)  
+**Project 2** — [ASL and ISL Sign Language](https://github.com/dhanushkaran5/SignBridge-AI)  
+**Project 3** — [AI Placement Mentor](https://github.com/dhanushkaran5/AI-placement-Mentor)
 
 
 ---
@@ -38,7 +39,7 @@
 ### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-harsith&theme=radical&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-dhanushkaran5&theme=radical&hide_border=true" alt="Streak"/>
 </div>
 
 ---
@@ -46,8 +47,8 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/dhanushkaran-m-35ab77330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="logeshdhanushkaran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>

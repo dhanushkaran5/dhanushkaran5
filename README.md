@@ -2,64 +2,107 @@
 
 # 👋 Hi, I'm Dhanushkaran M
 
-### 🤖 AI & Data Science Developer | Java | Python | Machine Learning
+### 🤖 AI & Data Science Developer | Java | Python | Machine Learning | Generative AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;AI+%26+Data+Science+Enthusiast;Java+%7C+Python+%7C+Machine+Learning;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;AI+%26+Data+Science+Enthusiast;Java+%7C+Python+%7C+Machine+Learning;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG"/>
 
-<p>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=dhanushkaran5&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/dhanushkaran5?label=Followers&style=flat" alt="Followers"/>
-</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-🎓 Final Year **AI & Data Science Student** at VSB College of Engineering & Technology
+🎓 Final Year **Artificial Intelligence & Data Science Student** at **VSB College of Engineering & Technology**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Generative AI & Data Science**
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Generative AI and Data Science**
 
 ☕ Building strong foundations in **Java, Data Structures & Algorithms**
 
-🐍 Exploring **Python, NLP, Computer Vision and AI applications**
+🐍 Exploring **Python, NLP, Computer Vision and intelligent applications**
 
-🚀 Interested in transforming real-world problems into practical software solutions
+🌐 Interested in **Backend Development, APIs and scalable software systems**
 
-💡 I enjoy learning new technologies and turning ideas into working projects
+🚀 Enjoy transforming real-world problems into practical technology solutions
 
 🎯 Currently preparing for **Software Engineering & AI/ML opportunities**
 
 ---
 
-## 🚀 Currently Building
+# 🚆 Dhanushkaran Express
 
-| Area                       | Focus                              |
-| -------------------------- | ---------------------------------- |
-| 🤖 Artificial Intelligence | Machine Learning & Generative AI   |
-| 💻 Software Development    | Java, Spring Boot & Python         |
-| 🧠 Data Science            | Data Analysis, NLP & ML            |
-| 👁️ Computer Vision        | Image & Sign Recognition           |
-| 🎯 Career Development      | Java + DSA + Placement Preparation |
+> **A developer journey powered by curiosity, consistency and continuous learning.**
+
+```text
+                         🚆 DHANUSHKARAN EXPRESS
+                                  │
+                                  ▼
+                         🚉 JAVA FUNDAMENTALS
+                                  │
+                                  ▼
+                         🚉 DATA STRUCTURES
+                                  │
+                                  ▼
+                         🚉 PYTHON & DATA
+                                  │
+                                  ▼
+                         🚉 MACHINE LEARNING
+                                  │
+                                  ▼
+                         🚉 NLP & COMPUTER VISION
+                                  │
+                                  ▼
+                         🚉 GENERATIVE AI & LLMs
+                                  │
+                                  ▼
+                         🚉 REAL-WORLD PROJECTS
+                                  │
+                                  ▼
+                         🚉 DEPLOYMENT & CLOUD
+                                  │
+                                  ▼
+                         🏁 AI / SOFTWARE ENGINEER
+```
+
+### 🛤️ Current Route
+
+`Java` → `DSA` → `Python` → `Machine Learning` → `Generative AI` → `Full-Stack AI` → `Production`
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I'm Currently Building
 
-### 💻 Programming Languages
+| 🚉 Station            | 🎯 Focus                          |
+| --------------------- | --------------------------------- |
+| ☕ Java Station        | Core Java + DSA + Problem Solving |
+| 🐍 Python Station     | Data Science + AI                 |
+| 🧠 ML Station         | Machine Learning + NLP            |
+| 👁️ Vision Station    | Computer Vision + Recognition     |
+| ✨ GenAI Station       | LLMs + AI Applications            |
+| 🌐 Backend Station    | Spring Boot + APIs                |
+| 🚀 Deployment Station | GitHub + Cloud Deployment         |
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
 </p>
 
-### 🤖 AI / Data Science
+### 🤖 AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-`Machine Learning` • `NLP` • `Computer Vision` • `Generative AI` • `Data Analysis`
+`Machine Learning` • `NLP` • `Computer Vision` • `Generative AI` • `LLMs` • `Data Analysis`
 
 ### 🌐 Development
 
@@ -67,7 +110,7 @@
 <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,fastapi" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Database & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma" />
@@ -75,9 +118,9 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Placement Mentor
+## 🤖 AI Placement Mentor
 
 **AI-powered career guidance and placement preparation platform**
 
@@ -90,13 +133,14 @@
 
 **Tech:** `Java` `Spring Boot` `Python` `FastAPI` `React` `NLP` `Machine Learning`
 
-🔗 **Repository:** [AI Placement Mentor](https://github.com/dhanushkaran5/AI-Placement-Mentor)
+🔗 **Repository:**
+https://github.com/dhanushkaran5/AI-Placement-Mentor
 
 ---
 
-### 🖐️ SignBridge AI
+## 🖐️ SignBridge AI
 
-**AI-powered ASL / ISL sign-language recognition and communication platform**
+**AI-powered sign-language recognition and communication platform**
 
 * 🖐️ Sign-language recognition
 * 🔤 Sign-to-text conversion
@@ -107,11 +151,12 @@
 
 **Tech:** `Python` `Computer Vision` `Machine Learning` `React`
 
-🔗 **Repository:** [SignBridge AI](https://github.com/dhanushkaran5/SignBridge-AI)
+🔗 **Repository:**
+https://github.com/dhanushkaran5/SignBridge-AI
 
 ---
 
-### 🌱 Tree Plantation & Carbon Calculator
+## 🌱 Tree Plantation & Carbon Calculator
 
 **Sustainability platform for understanding the environmental impact of tree plantation**
 
@@ -122,11 +167,12 @@
 
 **Tech:** `Python` `JavaScript` `HTML` `CSS`
 
-🔗 **Repository:** [Tree Plantation & Carbon Calculator](https://github.com/dhanushkaran5/Tree-Plantation-Calculator)
+🔗 **Repository:**
+https://github.com/dhanushkaran5/Tree-Plantation-Calculator
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Command Center
 
 <div align="center">
 
@@ -134,11 +180,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkaran5&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkaran5&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
@@ -146,72 +188,158 @@
 
 ---
 
-## 🧭 My Developer Journey
+# 🚆 Contribution Journey
+
+<div align="center">
+
+### 🚂 Every Contribution Moves the Train Forward
 
 ```text
-🎓 AI & Data Science
-        │
-        ▼
-☕ Java + Data Structures & Algorithms
-        │
-        ▼
-🐍 Python + Data Science
-        │
-        ▼
-🧠 Machine Learning + NLP
-        │
-        ▼
-👁️ Computer Vision
-        │
-        ▼
-✨ Generative AI + LLMs
-        │
-        ▼
-🚀 Building Real-World Intelligent Systems
+🚂━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🚃
+   🟩   🟩   🟨   🟩   🟩   🟢   🟢   🟩   🟨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              CONTRIBUTION TRACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+**Code → Commit → Learn → Build → Deploy → Repeat**
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🧭 Developer Roadmap
+
+```text
+                    🎓 AI & DATA SCIENCE
+                            │
+                            ▼
+                    ☕ JAVA + DSA
+                            │
+                            ▼
+                    🐍 PYTHON + SQL
+                            │
+                            ▼
+                    📊 DATA SCIENCE
+                            │
+                            ▼
+                    🧠 MACHINE LEARNING
+                            │
+                            ▼
+                    📝 NLP + LLMs
+                            │
+                            ▼
+                    👁️ COMPUTER VISION
+                            │
+                            ▼
+                    ✨ GENERATIVE AI
+                            │
+                            ▼
+                    🌐 FULL-STACK AI
+                            │
+                            ▼
+                    ☁️ DEPLOYMENT
+                            │
+                            ▼
+                    🚀 AI ENGINEERING
 ```
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-* ☕ Advanced Java & Data Structures
+* ☕ Advanced Java
+* 🧩 Data Structures & Algorithms
+* 🐍 Python for AI & Data Science
 * 🧠 Machine Learning
 * 🤖 Generative AI & LLMs
 * 👁️ Computer Vision
-* 📊 Data Science & Analytics
-* 🌐 Backend Development with Spring Boot
+* 📝 Natural Language Processing
+* 🌐 Spring Boot & Backend Development
 * 🗃️ SQL & Database Management
-* 💻 Problem Solving & Competitive Programming
+* 💻 Problem Solving
+* ☁️ Cloud Deployment
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Mission
 
-* [ ] Become strong in Java & DSA
-* [ ] Build production-ready AI applications
-* [ ] Improve Machine Learning fundamentals
-* [ ] Master SQL & backend development
-* [ ] Build and deploy more real-world projects
-* [ ] Contribute to open-source projects
-* [ ] Secure a software / AI engineering opportunity
+```text
+┌─────────────────────────────────────────────┐
+│              🚀 2026 MISSION                │
+├─────────────────────────────────────────────┤
+│                                             │
+│  ☕ Master Java + DSA                        │
+│  🧠 Strengthen ML fundamentals              │
+│  ✨ Build Generative AI applications         │
+│  🌐 Improve backend development              │
+│  🗃️ Master SQL & databases                   │
+│  🚀 Deploy production-ready projects        │
+│  🌍 Contribute to open source                │
+│  💼 Secure an AI / Software Engineering role│
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 ---
 
-## 💡 What I Like Building
+# 💡 What I Like Building
 
 ```text
 🤖 AI Applications
 🧠 Intelligent Recommendation Systems
 📊 Data Science Solutions
-👁️ Computer Vision Projects
+👁️ Computer Vision Applications
+📝 NLP & LLM Applications
 🌱 Sustainability Technology
 🎯 Career & Education Platforms
 ♿ Accessibility-focused Applications
+🌐 Full-Stack Intelligent Systems
 ```
 
 ---
 
-## 🤝 Connect With Me
+# ⚡ My Development Philosophy
+
+```text
+        THINK
+          │
+          ▼
+        LEARN
+          │
+          ▼
+        BUILD
+          │
+          ▼
+        TEST
+          │
+          ▼
+       DEBUG
+          │
+          ▼
+       DEPLOY
+          │
+          ▼
+       IMPROVE
+          │
+          └──────────────► REPEAT 🚀
+```
+
+> **"Consistency turns small commits into big achievements."**
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -233,10 +361,12 @@
 
 <div align="center">
 
-### 💭 "Turning ideas into intelligent solutions."
+### 🚆 Keep Learning. Keep Building. Keep Moving.
 
-⭐ **If you find my projects interesting, consider giving them a star!**
+**Java → DSA → AI → GenAI → Real-World Impact**
 
-**Thanks for visiting my profile! 🚀**
+⭐ If you find my projects interesting, consider giving them a star!
+
+### Thanks for visiting my profile! 🚀
 
 </div>

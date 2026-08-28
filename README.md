@@ -121,15 +121,23 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-# 📊 GitHub Statistics
+## 📊 Contribution Statistics
 
 <div align="center">
 
 <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkaran5&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+  width="500"
+/>
+
+<br><br>
+
+<img
   src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub Contribution Activity Graph"/>
+  alt="GitHub Contribution Activity"
+  width="900"
+/>
 
 </div>
 ---

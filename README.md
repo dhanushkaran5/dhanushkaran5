@@ -1,13 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Dhanushkaran M
+# 👨‍💻 DhanushKaran M ⚡
 
-### 🤖 AI & Data Science Student | Java & DSA Learner
+### `Code • Learn • Solve • Repeat`
 
-**☕ Java • 🧩 DSA • 🗄️ SQL • 🐬 MySQL • 🛠️ Git & GitHub**
+### 🤖 AI & Data Science Student | ☕ Java & DSA Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=Learning+Java+%26+Data+Structures;Building+Strong+Programming+Fundamentals;Practicing+Problem+Solving;Learning+SQL+%26+MySQL;Growing+Step+by+Step" alt="Typing SVG"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" alt="Java MySQL Git GitHub VS Code"/>
+</p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=Learning+Java+%26+DSA;Building+Strong+Programming+Fundamentals;Practicing+Problem+Solving;Learning+SQL+%26+MySQL;Preparing+for+Software+Engineering+Roles" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/dhanushkaran5">
+  <img src="https://img.shields.io/badge/GitHub-dhanushkaran5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 ---
 
 # 🧑‍💻 About Me

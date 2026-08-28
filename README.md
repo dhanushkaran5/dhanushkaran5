@@ -8,7 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=Learning+Java+%26+Data+Structures;Building+Strong+Programming+Fundamentals;Practicing+Problem+Solving;Learning+SQL+%26+MySQL;Growing+Step+by+Step" alt="Typing SVG"/>
 
-
 ---
 
 # 🧑‍💻 About Me

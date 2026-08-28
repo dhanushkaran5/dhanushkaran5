@@ -2,14 +2,15 @@
 
 # 👋 Hi, I'm Dhanushkaran M
 
-### 🤖 AI & Data Science Developer | Java | Python | Machine Learning | Generative AI
+### 🤖 AI & Data Science Student | Java & DSA Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;AI+%26+Data+Science+Enthusiast;Java+%7C+Python+%7C+Machine+Learning;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG"/>
+**☕ Java • 🧩 DSA • 🗄️ SQL • 🐬 MySQL • 🛠️ Git & GitHub**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=Learning+Java+%26+Data+Structures;Building+Strong+Programming+Fundamentals;Practicing+Problem+Solving;Learning+SQL+%26+MySQL;Growing+Step+by+Step" alt="Typing SVG"/>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=dhanushkaran5&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/dhanushkaran5?label=Followers&style=flat" alt="Followers"/>
 
 </div>
 
@@ -17,162 +18,110 @@
 
 # 🧑‍💻 About Me
 
-🎓 Final Year **Artificial Intelligence & Data Science Student** at **VSB College of Engineering & Technology**
+🎓 Final Year **Artificial Intelligence & Data Science Student**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Generative AI and Data Science**
+☕ Currently focused on learning **Java** and strengthening programming fundamentals.
 
-☕ Building strong foundations in **Java, Data Structures & Algorithms**
+🧩 Learning **Data Structures & Algorithms** and improving problem-solving skills.
 
-🐍 Exploring **Python, NLP, Computer Vision and intelligent applications**
+🗄️ Building database fundamentals with **SQL and MySQL**.
 
-🌐 Interested in **Backend Development, APIs and scalable software systems**
+🛠️ Using **Git and GitHub** to manage and track my learning.
 
-🚀 Enjoy transforming real-world problems into practical technology solutions
+🎯 Currently preparing myself for **software engineering and placement opportunities**.
 
-🎯 Currently preparing for **Software Engineering & AI/ML opportunities**
+> **Learning the fundamentals today to build better software tomorrow.**
 
 ---
 
-# 🚆 Dhanushkaran Express
+# 💻 Current Tech Stack
 
-> **A developer journey powered by curiosity, consistency and continuous learning.**
+### ☕ Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+</p>
+
+**Java** — Currently Learning
+
+### 🧩 Data Structures & Problem Solving
+
+* Data Structures & Algorithms
+* Problem Solving
+* Logical Thinking
+* Programming Fundamentals
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
+
+**SQL • MySQL**
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
+</p>
+
+**Git • GitHub • VS Code**
+
+---
+
+# 📚 Currently Learning
 
 ```text
-                         🚆 DHANUSHKARAN EXPRESS
-                                  │
-                                  ▼
-                         🚉 JAVA FUNDAMENTALS
-                                  │
-                                  ▼
-                         🚉 DATA STRUCTURES
-                                  │
-                                  ▼
-                         🚉 PYTHON & DATA
-                                  │
-                                  ▼
-                         🚉 MACHINE LEARNING
-                                  │
-                                  ▼
-                         🚉 NLP & COMPUTER VISION
-                                  │
-                                  ▼
-                         🚉 GENERATIVE AI & LLMs
-                                  │
-                                  ▼
-                         🚉 REAL-WORLD PROJECTS
-                                  │
-                                  ▼
-                         🚉 DEPLOYMENT & CLOUD
-                                  │
-                                  ▼
-                         🏁 AI / SOFTWARE ENGINEER
+☕ Java
+   ├── Java Fundamentals
+   ├── OOP
+   ├── Classes & Objects
+   ├── Inheritance
+   ├── Polymorphism
+   ├── Abstraction
+   ├── Encapsulation
+   ├── Exception Handling
+   ├── Collections
+   └── Problem Solving
+
+🧩 Data Structures & Algorithms
+   ├── Arrays
+   ├── Strings
+   ├── Searching
+   ├── Sorting
+   ├── Linked Lists
+   ├── Stack
+   ├── Queue
+   └── Algorithmic Thinking
+
+🗄️ SQL & MySQL
+   ├── SQL Fundamentals
+   ├── Queries
+   ├── Joins
+   ├── Functions
+   ├── Grouping
+   └── Database Fundamentals
 ```
 
-### 🛤️ Current Route
+---
 
-`Java` → `DSA` → `Python` → `Machine Learning` → `Generative AI` → `Full-Stack AI` → `Production`
+# 🎯 Current Focus
+
+<div align="center">
+
+| Area             | Status      |
+| ---------------- | ----------- |
+| ☕ Java           | 🟢 Learning |
+| 🧩 DSA           | 🟢 Learning |
+| 🗄️ SQL          | 🟢 Learning |
+| 🐬 MySQL         | 🟢 Learning |
+| 🛠️ Git & GitHub | 🟢 Using    |
+
+</div>
 
 ---
 
-# 🚀 What I'm Currently Building
-
-| 🚉 Station            | 🎯 Focus                          |
-| --------------------- | --------------------------------- |
-| ☕ Java Station        | Core Java + DSA + Problem Solving |
-| 🐍 Python Station     | Data Science + AI                 |
-| 🧠 ML Station         | Machine Learning + NLP            |
-| 👁️ Vision Station    | Computer Vision + Recognition     |
-| ✨ GenAI Station       | LLMs + AI Applications            |
-| 🌐 Backend Station    | Spring Boot + APIs                |
-| 🚀 Deployment Station | GitHub + Cloud Deployment         |
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-`Machine Learning` • `NLP` • `Computer Vision` • `Generative AI` • `LLMs` • `Data Analysis`
-
-### 🌐 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Placement Mentor
-
-**AI-powered career guidance and placement preparation platform**
-
-* 🎯 Intelligent job and candidate matching
-* 📄 Resume & job-description analysis
-* 🧠 AI-powered skill-gap analysis
-* 📚 Personalized learning roadmap
-* 💼 Career and placement assistance
-* 🔐 Role-based Job Seeker, Recruiter & Admin portals
-
-**Tech:** `Java` `Spring Boot` `Python` `FastAPI` `React` `NLP` `Machine Learning`
-
-🔗 **Repository:**
-https://github.com/dhanushkaran5/AI-Placement-Mentor
-
----
-
-## 🖐️ SignBridge AI
-
-**AI-powered sign-language recognition and communication platform**
-
-* 🖐️ Sign-language recognition
-* 🔤 Sign-to-text conversion
-* 🔊 Text-to-speech communication
-* 📚 Interactive sign-language learning
-* ♿ Accessibility-focused design
-* 🤖 Computer Vision & Machine Learning
-
-**Tech:** `Python` `Computer Vision` `Machine Learning` `React`
-
-🔗 **Repository:**
-https://github.com/dhanushkaran5/SignBridge-AI
-
----
-
-## 🌱 Tree Plantation & Carbon Calculator
-
-**Sustainability platform for understanding the environmental impact of tree plantation**
-
-* 🌳 Tree plantation tracking
-* 🌍 Carbon impact estimation
-* 📊 Environmental data visualization
-* ♻️ Sustainability awareness
-
-**Tech:** `Python` `JavaScript` `HTML` `CSS`
-
-🔗 **Repository:**
-https://github.com/dhanushkaran5/Tree-Plantation-Calculator
-
----
-
-# 📊 GitHub Command Center
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -188,26 +137,6 @@ https://github.com/dhanushkaran5/Tree-Plantation-Calculator
 
 ---
 
-# 🚆 Contribution Journey
-
-<div align="center">
-
-### 🚂 Every Contribution Moves the Train Forward
-
-```text
-🚂━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🚃
-   🟩   🟩   🟨   🟩   🟩   🟢   🟢   🟩   🟨
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-              CONTRIBUTION TRACK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**Code → Commit → Learn → Build → Deploy → Repeat**
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -218,124 +147,65 @@ https://github.com/dhanushkaran5/Tree-Plantation-Calculator
 
 ---
 
-# 🧭 Developer Roadmap
+# 📈 My Learning Journey
 
 ```text
-                    🎓 AI & DATA SCIENCE
-                            │
-                            ▼
-                    ☕ JAVA + DSA
-                            │
-                            ▼
-                    🐍 PYTHON + SQL
-                            │
-                            ▼
-                    📊 DATA SCIENCE
-                            │
-                            ▼
-                    🧠 MACHINE LEARNING
-                            │
-                            ▼
-                    📝 NLP + LLMs
-                            │
-                            ▼
-                    👁️ COMPUTER VISION
-                            │
-                            ▼
-                    ✨ GENERATIVE AI
-                            │
-                            ▼
-                    🌐 FULL-STACK AI
-                            │
-                            ▼
-                    ☁️ DEPLOYMENT
-                            │
-                            ▼
-                    🚀 AI ENGINEERING
+             🎓 AI & DATA SCIENCE
+                     │
+                     ▼
+                ☕ JAVA
+                     │
+                     ▼
+                  🧩 DSA
+                     │
+                     ▼
+              🗄️ SQL + MYSQL
+                     │
+                     ▼
+             💡 PROBLEM SOLVING
+                     │
+                     ▼
+             💼 PLACEMENT READY
 ```
 
----
-
-# 📚 Currently Learning
-
-* ☕ Advanced Java
-* 🧩 Data Structures & Algorithms
-* 🐍 Python for AI & Data Science
-* 🧠 Machine Learning
-* 🤖 Generative AI & LLMs
-* 👁️ Computer Vision
-* 📝 Natural Language Processing
-* 🌐 Spring Boot & Backend Development
-* 🗃️ SQL & Database Management
-* 💻 Problem Solving
-* ☁️ Cloud Deployment
+> **Learn → Practice → Solve → Improve → Repeat**
 
 ---
 
-# 🎯 2026 Mission
+# 🎯 My Goals
+
+* ☕ Build strong Java fundamentals
+* 🧩 Become confident in DSA and problem solving
+* 🗄️ Strengthen SQL and MySQL knowledge
+* 💻 Improve coding consistency
+* 🛠️ Build a strong GitHub profile through regular learning
+* 🎯 Prepare effectively for technical interviews
+* 💼 Become placement-ready for software engineering opportunities
+
+---
+
+# ⚡ My Learning Philosophy
 
 ```text
-┌─────────────────────────────────────────────┐
-│              🚀 2026 MISSION                │
-├─────────────────────────────────────────────┤
-│                                             │
-│  ☕ Master Java + DSA                        │
-│  🧠 Strengthen ML fundamentals              │
-│  ✨ Build Generative AI applications         │
-│  🌐 Improve backend development              │
-│  🗃️ Master SQL & databases                   │
-│  🚀 Deploy production-ready projects        │
-│  🌍 Contribute to open source                │
-│  💼 Secure an AI / Software Engineering role│
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-# 💡 What I Like Building
-
-```text
-🤖 AI Applications
-🧠 Intelligent Recommendation Systems
-📊 Data Science Solutions
-👁️ Computer Vision Applications
-📝 NLP & LLM Applications
-🌱 Sustainability Technology
-🎯 Career & Education Platforms
-♿ Accessibility-focused Applications
-🌐 Full-Stack Intelligent Systems
-```
-
----
-
-# ⚡ My Development Philosophy
-
-```text
-        THINK
-          │
-          ▼
         LEARN
           │
           ▼
-        BUILD
+       PRACTICE
           │
           ▼
-        TEST
+        SOLVE
           │
           ▼
-       DEBUG
-          │
-          ▼
-       DEPLOY
+        DEBUG
           │
           ▼
        IMPROVE
           │
-          └──────────────► REPEAT 🚀
+          ▼
+        REPEAT 🚀
 ```
 
-> **"Consistency turns small commits into big achievements."**
+> **Consistency beats intensity.**
 
 ---
 
@@ -345,10 +215,6 @@ https://github.com/dhanushkaran5/Tree-Plantation-Calculator
 
 <a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:dhanushkaran@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/dhanushkaran5">
@@ -361,12 +227,12 @@ https://github.com/dhanushkaran5/Tree-Plantation-Calculator
 
 <div align="center">
 
-### 🚆 Keep Learning. Keep Building. Keep Moving.
+### 🚀 Keep Learning. Keep Practicing. Keep Growing.
 
-**Java → DSA → AI → GenAI → Real-World Impact**
+**Java → DSA → SQL → Problem Solving → Software Engineering**
 
-⭐ If you find my projects interesting, consider giving them a star!
+<br>
 
-### Thanks for visiting my profile! 🚀
+⭐ **Thanks for visiting my profile!**
 
 </div>

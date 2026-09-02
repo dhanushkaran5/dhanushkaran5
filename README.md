@@ -6,18 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=Java+%26+DSA+Learner;Building+Backend+Applications+with+Spring+Boot;Learning+React+%26+Node.js;Working+with+MySQL+%26+PostgreSQL;Deploying+Applications+with+Vercel+%26+Render;Preparing+for+Software+Engineering+Roles" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dhanushkaran5">
-    <img src="https://img.shields.io/badge/GitHub-dhanushkaran5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:logeshdhanushkaran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me

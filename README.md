@@ -1,200 +1,151 @@
- <!-- Profile README for Dhanush Karan M -->
+ <!-- Dhanush Karan M | GitHub Profile -->
 
 <p align="center">
-  <img src="./profile-banner.svg" width="100%" alt="Dhanush Karan M — Software Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Dhanush%20Karan%20M&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=58&descSize=14" width="100%" alt="Dhanush Karan M profile banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhanush Karan M</h1>
-
-<h3 align="center">Aspiring Software Engineer | Java Developer | Full-Stack & AI/ML Enthusiast</h3>
+<h2 align="center">Hi there, I'm Dhanush Karan M 👋</h2>
 
 <p align="center">
-  <a href="https://github.com/dhanushkaran5">
-    <img src="https://komarev.com/ghpvc/?username=dhanushkaran5&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Solutions+with+Java;Data+Structures+%26+Algorithms;Full-Stack+Web+Development;Exploring+AI%2FML+%26+Cloud+Technologies;Learning+Every+Day%2C+Building+Every+Day" alt="Developer introduction"/>
-  </a>
+  <b>Aspiring Software Engineer | Java Developer | Full-Stack Developer</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/dhanushkaran5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/DK_karan/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:logeshdhanushkaran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a final-year Artificial Intelligence and Data Science student interested in software engineering, application development, and solving real-world problems through technology.
-
-- ☕ Strengthening Java, OOP, and problem-solving fundamentals.
-- 🧠 Practicing Data Structures and Algorithms for coding interviews.
-- 🌐 Building modern web applications with React and JavaScript.
-- ⚙️ Exploring backend development with Spring Boot and REST APIs.
-- 🗄️ Learning database design, SQL, and relational databases.
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and intelligent applications.
-- ☁️ Learning cloud deployment, DevOps fundamentals, and modern development workflows.
-- 🎯 Preparing for software engineering opportunities and continuous improvement.
-
-**My philosophy:** Learn deeply, build consistently, and improve with every project.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+with+Java;Practicing+Data+Structures+%26+Algorithms;Exploring+Full-Stack+Development;Learning+AI%2FML+and+Cloud+Technologies" alt="Developer introduction"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
 
-### 💻 Programming Languages
+I'm a final-year Artificial Intelligence and Data Science student passionate about software development, problem-solving, and building practical applications.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Java, Python, JavaScript and TypeScript"/>
-</p>
+- ☕ Improving my Java and Object-Oriented Programming skills.
+- 🧩 Practicing Data Structures and Algorithms for coding interviews.
+- 🌐 Exploring frontend development with React.
+- ⚙️ Learning backend development using Spring Boot and REST APIs.
+- 🗄️ Strengthening SQL, DBMS, and database design concepts.
+- 🤖 Exploring AI, Machine Learning, and intelligent applications.
+- ☁️ Learning cloud deployment and modern development tools.
 
-`Java` · `Python` · `JavaScript` · `TypeScript`
-
-### 🧩 Computer Science Fundamentals
-
-`Object-Oriented Programming` · `Data Structures & Algorithms` · `Problem Solving` · `DBMS` · `Operating Systems` · `Computer Networks`
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="HTML, CSS, React, Vite and Tailwind CSS"/>
-</p>
-
-`HTML5` · `CSS3` · `React` · `Vite` · `Tailwind CSS`
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Spring Boot, Node.js and Express"/>
-</p>
-
-`Spring Boot` · `Node.js` · `Express.js` · `REST APIs`
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL and MongoDB"/>
-</p>
-
-`MySQL` · `PostgreSQL` · `MongoDB` · `SQL` · `Database Design`
-
-### ☁️ Cloud, DevOps & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,vercel" alt="AWS, Docker, GitHub Actions, Linux and Vercel"/>
-</p>
-
-`AWS` · `Docker` · `GitHub Actions` · `Linux` · `CI/CD Fundamentals`
-
-### 🔧 Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" alt="Git, GitHub, VS Code, Postman and IntelliJ IDEA"/>
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Postman` · `IntelliJ IDEA` · `Render`
-
-### 🤖 AI & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Python, TensorFlow and scikit-learn"/>
-</p>
-
-`Python` · `Machine Learning Fundamentals` · `Data Analysis` · `AI Application Development`
+**Goal:** To become a skilled software engineer by continuously learning, building, and solving real-world problems.
 
 ---
 
-## 🧠 LeetCode & Problem Solving
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="38" alt="Java, Python, JavaScript and TypeScript"/>
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" height="38" alt="HTML, CSS, React, Vite and Tailwind CSS"/>
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" height="38" alt="Spring Boot, Node.js and Express"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="38" alt="MySQL, PostgreSQL and MongoDB"/>
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux,vscode,postman" height="38" alt="AWS, Docker, GitHub Actions, Git, GitHub, Linux, VS Code and Postman"/>
+</p>
+
+**Core Computer Science**
+
+`OOP` · `DSA` · `DBMS` · `Operating Systems` · `Computer Networks` · `Problem Solving`
+
+---
+
+### 🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/DK_karan/">
-    <img src="https://leetcard.jacoblin.cool/DK_karan?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode statistics and activity heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/DK_karan?theme=dark&font=Fira%20Code&ext=heatmap" width="440" alt="LeetCode statistics and activity"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/DK_karan/">
-    <img src="https://img.shields.io/badge/Visit_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode profile"/>
-  </a>
-</p>
-
-I use coding challenges to strengthen algorithmic thinking, improve code quality, and prepare for technical interviews.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushkaran5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkaran5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
-</p>
-
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=dhanushkaran5&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <a href="https://leetcode.com/u/DK_karan/">View LeetCode Profile ↗</a>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushkaran5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide_title=true" height="145" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkaran5&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="145" alt="Most-used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhanushkaran5&theme=tokyonight&hide_border=true" width="420" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
+    <img src="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-snake.svg" width="85%" alt="Animated GitHub contribution snake"/>
   </picture>
 </p>
 
 ---
 
-## 🎯 Current Learning Goals
+### 🎯 Currently Focusing On
 
-- [ ] Strengthen Java and advanced OOP concepts.
-- [ ] Solve DSA problems consistently on LeetCode.
-- [ ] Develop REST APIs using Spring Boot.
-- [ ] Build responsive, full-stack web applications.
-- [ ] Improve SQL query writing and database optimization.
-- [ ] Explore AI/ML integration in practical applications.
-- [ ] Learn Docker, CI/CD, and cloud deployment.
-- [ ] Contribute to open-source projects.
+- Strengthening Java and DSA fundamentals.
+- Building applications with React and Spring Boot.
+- Improving SQL and database management skills.
+- Exploring AI/ML and cloud technologies.
+- Preparing for software engineering placements.
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/dhanushkaran5">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="28" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/DK_karan/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" height="28" alt="LinkedIn"/>
   </a>
   <a href="mailto:logeshdhanushkaran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" height="28" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Consistency builds skills. Curiosity builds possibilities."</i>
+  <i>"Learn consistently. Build thoughtfully. Improve every day."</i>
 </p>
 
-<p align="center">
-  Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
-</p>

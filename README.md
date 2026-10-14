@@ -142,3 +142,11 @@ Your support motivates me to keep learning, building, and sharing! 💙
   </a>
 </p>
 
+## 💭 Developer Mindset
+
+<p align="center">
+  <i>"Code. Solve. Repeat."</i>
+  <br/>
+  <b>while(alive) { learn(); build(); repeat(); }</b>
+</p>
+

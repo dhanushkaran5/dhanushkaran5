@@ -126,3 +126,19 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 [![LeetCode](https://img.shields.io/badge/LeetCode-DK__karan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DK_karan/)
 
 *“Small steps. Clean code. Consistent progress.”*
+## ⭐ Support My Work
+
+If you find my projects helpful or interesting, please consider giving them a ⭐!
+
+- 🌟 **Star** my repositories if you like my work.
+- 🍴 **Fork** a project to build upon it.
+- 🤝 **Contribute** ideas, improvements, or feedback.
+
+Your support motivates me to keep learning, building, and sharing! 💙
+
+<p align="center">
+  <a href="https://github.com/dhanushkaran5?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-⭐%20Give%20a%20Star-blue?style=for-the-badge" alt="Explore my projects and give a star"/>
+  </a>
+</p>
+

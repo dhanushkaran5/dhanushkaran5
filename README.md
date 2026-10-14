@@ -1,174 +1,215 @@
-<div align="center">
+::: {align="center"}
+# Dhanush Karan M
 
-  <h1>Dhanush Karan M</h1>
-  <p><b>Aspiring Software Engineer | Java | Full-Stack Development</b></p>
-  <p><i>Code • Learn • Solve • Repeat</i></p>
+### Aspiring Software Engineer · Java · Full-Stack Development
 
-</div>
+*Code • Learn • Solve • Repeat*
 
-<table>
-  <tr>
-    <td width="34%" valign="middle" align="left">
-      <img src="Anime%20Developer%20Workspace%20at%20Night.png" width="300" alt="Anime-inspired developer workspace portrait of Dhanush Karan M"/>
-    </td>
-    <td width="66%" valign="middle">
-      <h2>Hey there! 👋</h2>
-      I'm a final-year <b>Artificial Intelligence and Data Science student</b> focused on becoming a capable software developer through consistent practice and hands-on learning.
-      <ul>
-        <li>☕ Strengthening Java, OOP, and programming fundamentals.</li>
-        <li>🧩 Practicing Data Structures and Algorithms.</li>
-        <li>🌐 Exploring React, Spring Boot, and REST APIs.</li>
-        <li>🗄️ Improving SQL and relational database skills.</li>
-        <li>🚀 Learning to build, test, and deploy useful applications.</li>
-      </ul>
-      <p><b>Current goal:</b> become a dependable software engineer by learning deeply, writing clean code, and improving one step at a time.</p>
-    </td>
-  </tr>
-</table>
+`<img src="./Anime%20Developer%20Workspace%20at%20Night.png" alt="Dhanush Karan M — developer profile image" width="300" />`{=html}
 
-<p align="left">
-  <a href="https://github.com/dhanushkaran5"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/DK_karan/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+```{=html}
+<p>
+```
+`<a href="https://github.com/dhanushkaran5">`{=html}`<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/DK_karan/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+Java+and+OOP;Practicing+DSA+and+problem-solving;Exploring+full-stack+development;Building+better+habits+one+commit+at+a+time" alt="Developer learning goals" />`{=html}
+:::
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&vCenter=true&width=620&lines=Learning+Java+and+Object-Oriented+Programming;Practicing+DSA+and+problem-solving;Exploring+full-stack+development;Building+better+habits+one+commit+at+a+time" alt="Developer learning goals"/>
-</p>
+------------------------------------------------------------------------
 
----
+## 👋 About Me
 
-## 👨‍💻 About Me
+I'm a final-year **Artificial Intelligence and Data Science student**
+focused on becoming a capable software developer through consistent
+practice and hands-on learning.
 
-- 🎓 Final-year student in Artificial Intelligence and Data Science.
-- 💻 Interested in software development, problem-solving, and practical applications.
-- 📚 Believe in understanding fundamentals instead of only memorizing code.
-- 🔧 Improving debugging, code organization, and database design skills.
-- 🌱 Always learning something new and turning that learning into practice.
+-   ☕ Strengthening Java, OOP, and programming fundamentals.
+-   🧩 Practicing Data Structures and Algorithms.
+-   🌐 Exploring React, Spring Boot, and REST APIs.
+-   🗄️ Improving SQL and relational database skills.
+-   🚀 Learning to build, test, and deploy useful applications.
+
+**Current goal:** become a dependable software engineer by learning
+deeply, writing clean code, and improving one step at a time.
 
 ## 🧰 Tech Stack
 
-<p><b>Languages</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Java, Python, JavaScript, TypeScript"/>
+**Languages**
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Java, Python, JavaScript, TypeScript" />`{=html}
+```{=html}
 </p>
+```
+**Frontend**
 
-<p><b>Frontend</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="HTML, CSS, React, Vite, Tailwind CSS"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="HTML, CSS, React, Vite, Tailwind CSS" />`{=html}
+```{=html}
 </p>
+```
+**Backend**
 
-<p><b>Backend</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Spring Boot, Node.js, Express"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Spring Boot, Node.js, Express" />`{=html}
+```{=html}
 </p>
+```
+**Databases**
 
-<p><b>Databases</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB" />`{=html}
+```{=html}
 </p>
+```
+**Tools & Platforms**
 
-<p><b>Tools & Platforms</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,linux" alt="Git, GitHub, VS Code, Postman, AWS, Vercel, Linux"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,linux" alt="Git, GitHub, VS Code, Postman, AWS, Vercel, Linux" />`{=html}
+```{=html}
 </p>
+```
+**Core Computer Science**
 
-<p><b>Core Computer Science</b></p>
+`OOP` · `Data Structures & Algorithms` · `DBMS` · `Operating Systems` ·
+`Computer Networks` · `Problem Solving`
 
-`OOP` · `Data Structures & Algorithms` · `DBMS` · `Operating Systems` · `Computer Networks` · `Problem Solving`
-
----
+------------------------------------------------------------------------
 
 ## 📊 GitHub Statistics
 
-<div align="left">
-  <a href="https://github.com/dhanushkaran5">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=dhanushkaran5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub account statistics"/>
-  </a>
-  <a href="https://github.com/dhanushkaran5">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkaran5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
-  </a>
-</div>
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushkaran5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics for dhanushkaran5" />`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkaran5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages in public repositories" />`{=html}
+:::
 
-<div align="left">
-  <a href="https://github.com/dhanushkaran5">
-    <img height="175" src="https://streak-stats.demolab.com?user=dhanushkaran5&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-  </a>
-</div>
+::: {align="center"}
+`<img height="170" src="https://streak-stats.demolab.com?user=dhanushkaran5&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />`{=html}
+:::
 
-> Note: These cards use external services. If a card is temporarily blank, try opening its image URL directly or wait for the service to recover. Language statistics describe public repository code, not your full skill set.
+> These cards are provided by external services and may occasionally be
+> unavailable. Language cards reflect repository code, not overall skill
+> level.
 
----
+------------------------------------------------------------------------
+
+## 🧠 LeetCode Statistics
+
+::: {align="center"}
+`<a href="https://leetcode.com/u/DK_karan/">`{=html}
+`<img src="https://leetcard.jacoblin.cool/DK_karan?theme=dark&font=Baloo&ext=heatmap" width="650" alt="LeetCode statistics and submission heatmap for DK_karan" />`{=html}
+`</a>`{=html}
+```{=html}
+<p>
+```
+`<a href="https://leetcode.com/u/DK_karan/">`{=html}View my LeetCode
+profile →`</a>`{=html}
+```{=html}
+</p>
+```
+:::
+
+> The LeetCode card is loaded from a third-party service. If it does not
+> load, use the profile link above.
+
+------------------------------------------------------------------------
 
 ## 🌐 Contribution Activity
 
-<div align="left">
-  <a href="https://github.com/dhanushkaran5">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&bg_color=0d1117&color=38bdf8&line=6366f1&point=22c55e&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-  </a>
-</div>
+::: {align="center"}
+`<a href="https://github.com/dhanushkaran5">`{=html}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />`{=html}
+`</a>`{=html}
+```{=html}
+<p>
+```
+`<a href="https://github.com/dhanushkaran5">`{=html}View all GitHub
+activity →`</a>`{=html}
+```{=html}
+</p>
+```
+:::
 
----
+------------------------------------------------------------------------
 
 ## 🐍 Contribution Snake
 
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
-  </picture>
-</div>
+::: {align="center"}
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake-dark.svg" />`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake.svg" />`{=html}
+`<img src="https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />`{=html}
+`</picture>`{=html}
+:::
 
-<details>
-  <summary><b>Snake not showing? Set it up here</b></summary>
+> **First-time setup:** add the workflow file included with this README
+> package to `.github/workflows/snake.yml`, push it to your
+> `dhanushkaran5` profile repository, then run **Actions → Generate
+> contribution snake → Run workflow**. The snake appears after the
+> workflow succeeds and publishes the `output` branch.
 
-  1. Save the workflow below as `.github/workflows/snake.yml` in this profile repository.
-  2. Open **Settings → Actions → General** and make sure workflows can write repository contents.
-  3. Open **Actions → Generate contribution snake → Run workflow**.
-  4. After a successful run, open the `output` branch and confirm it contains `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg`.
-
-  The workflow runs daily and can also be started manually. The contribution activity graph above is a separate alternative visual.
-
-</details>
-
----
+------------------------------------------------------------------------
 
 ## 📜 Certifications & Learning
 
-- **NPTEL** — The Joy of Computing Using Python
-- **Infosys Springboard** — Data Structures and Algorithms Using Python
-- **AWS** — Foundations of Prompt Engineering
-- **IBM** — Generative AI Essentials: Using LLMs to Work with Data
+-   **NPTEL** --- The Joy of Computing Using Python
+-   **Infosys Springboard** --- Data Structures and Algorithms Using
+    Python
+-   **AWS** --- Foundations of Prompt Engineering
+-   **IBM** --- Generative AI Essentials: Using LLMs to Work with Data
 
-## 🎯 What I'm Working On
+## 🎯 Current Learning Goals
 
-- [ ] Improve Java fundamentals, OOP, and exception handling.
-- [ ] Practice DSA problems and learn the patterns behind solutions.
-- [ ] Strengthen SQL, joins, normalization, and database concepts.
-- [ ] Build and refine full-stack applications.
-- [ ] Improve Git workflows, testing, debugging, and deployment.
-- [ ] Keep a consistent, sustainable coding and learning routine.
+-   [ ] Improve Java fundamentals, OOP, and exception handling.
+-   [ ] Practice DSA problems and recognize common problem-solving
+    patterns.
+-   [ ] Strengthen SQL, joins, normalization, and database concepts.
+-   [ ] Build and refine full-stack applications.
+-   [ ] Improve Git workflows, testing, debugging, and deployment.
+-   [ ] Maintain a consistent, sustainable learning routine.
 
-## 📅 My Developer Principles
+## 💡 Developer Principles
 
-| Principle | What it means to me |
-|---|---|
-| Learn by doing | Apply concepts in code instead of only watching tutorials. |
-| Understand the why | Focus on logic, trade-offs, and fundamentals. |
-| Stay consistent | Make steady progress rather than chasing quick results. |
-| Improve through feedback | Debug, review, and refine my work. |
+  -----------------------------------------------------------------------
+  Principle                           What it means to me
+  ----------------------------------- -----------------------------------
+  Learn by doing                      Apply concepts in code, not just
+                                      tutorials.
 
----
+  Understand the why                  Focus on logic, trade-offs, and
+                                      fundamentals.
 
-## 🔗 Let's Connect
+  Stay consistent                     Make steady progress instead of
+                                      chasing quick results.
 
-<p align="left">
-  <a href="https://github.com/dhanushkaran5"><img src="https://img.shields.io/badge/GitHub-dhanushkaran5-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
-  <a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330"><img src="https://img.shields.io/badge/LinkedIn-Dhanush%20Karan%20M-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/></a>
-  <a href="https://leetcode.com/u/DK_karan/"><img src="https://img.shields.io/badge/LeetCode-DK__karan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
-</p>
+  Improve through feedback            Debug, review, and refine my work.
+  -----------------------------------------------------------------------
 
-<div align="left">
-  <i>“Small steps. Clean code. Consistent progress.”</i>
-</div>
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+::: {align="center"}
+`<a href="https://github.com/dhanushkaran5">`{=html}`<img src="https://img.shields.io/badge/GitHub-dhanushkaran5-181717?style=for-the-badge&logo=github" alt="GitHub" />`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/dhanushkaran-m-35ab77330">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Dhanush%20Karan%20M-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/DK_karan/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-DK__karan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />`{=html}`</a>`{=html}
+:::
+
+::: {align="center"}
+`<br />`{=html} `<i>`{=html}"Small steps. Clean code. Consistent
+progress."`</i>`{=html}
+:::

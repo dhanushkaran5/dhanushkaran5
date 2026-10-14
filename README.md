@@ -11,6 +11,14 @@ Commit to Growth. Push Beyond Limits.
 
 ![Developer learning goals](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&width=600&lines=Learning+Java+and+OOP;Practicing+DSA+and+problem-solving;Exploring+full-stack+development;Building+better+habits+one+commit+at+a+time)
 
+<!-- Animated Typing Terminal -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=600&lines=%3E+Initializing+Developer...;%3E+Loading+Java+Skills...;%3E+Solving+DSA+Problems...;%3E+Building+Something+Awesome!"
+    alt="Animated developer terminal"
+  />
+</p>
+
 ---
 
 ## 👋 About Me

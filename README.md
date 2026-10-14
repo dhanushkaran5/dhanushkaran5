@@ -68,15 +68,15 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 
 ## 🌐 Contribution Activity
 
-[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/dhanushkaran5)
+[Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/dhanushkaran5)
 
 ---
 
-## 🐍 Contribution Snake
 
-![Animated GitHub contribution snake](https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-snake.svg)
+## 🐍 My GitHub Contribution Snake
 
-*If the snake is missing, run the repository's **Generate contribution snake** workflow and make sure it publishes `github-snake.svg` to the `output` branch.*
+![GitHub Contribution Snake](https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake.svg)
+
 
 ---
 

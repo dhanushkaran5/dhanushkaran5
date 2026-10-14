@@ -69,8 +69,7 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 
 ## 🌐 Contribution Activity
 
-[![Dhanush's GitHub Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/dhanushkaran5)
-
+[![Dhanush's GitHub Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true)](https://github.com/dhanushkaran5)
 ---
 
 

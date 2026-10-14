@@ -66,16 +66,15 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 
 ---
 
+
 ## 🌐 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/dhanushkaran5">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&radius=10"
-      alt="Dhanush's GitHub Contribution Activity"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/409ba5/dhanushkaran5"
+    alt="Dhanush's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---

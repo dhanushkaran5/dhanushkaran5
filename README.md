@@ -26,56 +26,93 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 
 **Current goal:** become a dependable software engineer by learning deeply, writing clean code, and improving one step at a time.
 
-## 🌳 Developer Skill Tree
+## 🎮 DEVELOPER QUEST — SKILL TREE
 
 <p align="center">
-  <b>⚔️ LEVEL UP YOUR DEVELOPER SKILLS ⚔️</b>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>☕ Java Development</h3>
-      <p>🌱 Core Java</p>
-      <p>├── 🌱 Object-Oriented Programming</p>
-      <p>├── 🌱 Collections Framework</p>
-      <p>├── 🌱 Exception Handling</p>
-      <p>└── 🔒 Multithreading</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🧠 Data Structures & Algorithms</h3>
-      <p>🌱 Arrays & Strings</p>
-      <p>├── 🌱 Searching & Sorting</p>
-      <p>├── 🌱 Linked Lists</p>
-      <p>├── 🌱 Stacks & Queues</p>
-      <p>└── 🔒 Trees & Graphs</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Full-Stack Development</h3>
-      <p>🌱 HTML & CSS</p>
-      <p>├── 🌱 JavaScript</p>
-      <p>├── 🌱 React</p>
-      <p>├── 🌱 SQL & Databases</p>
-      <p>└── 🔒 Backend Development</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 AI & Emerging Tech</h3>
-      <p>🌱 AI Fundamentals</p>
-      <p>├── 🌱 AI-Powered Applications</p>
-      <p>├── 🔒 LLM Integration</p>
-      <p>└── 🔒 AI Automation</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  🌱 Learning &nbsp; | &nbsp; 🔒 Next Challenges
+  <b>PLAYER: DHANUSH KARAN</b><br>
+  <code>CLASS: SOFTWARE ENGINEER IN TRAINING</code><br>
+  <code>LEVEL 01 • QUEST STATUS: IN PROGRESS</code>
 </p>
 
 <p align="center">
-  <i>Every concept mastered unlocks a new level. 🚀</i>
+  <img src="./assets/developer-skill-tree.svg" width="100%" alt="RPG Developer Skill Tree">
+</p>
+
+### 🗺️ CHOOSE YOUR QUESTLINE
+
+<details>
+<summary>☕ QUEST 01 — JAVA MASTERY</summary>
+
+- [x] 🌱 Core Java
+- [x] 🌱 Object-Oriented Programming
+- [ ] 🔒 Collections Mastery
+- [ ] 🔒 Exception Handling Mastery
+- [ ] 🔒 Multithreading
+- [ ] 👑 BOSS: Build a Java Application
+
+**Reward:** Java Mastery XP
+
+</details>
+
+<details>
+<summary>🧠 QUEST 02 — DSA DUNGEON</summary>
+
+- [x] 🌱 Arrays and Strings
+- [ ] 🔒 Searching and Sorting
+- [ ] 🔒 Linked Lists
+- [ ] 🔒 Stacks and Queues
+- [ ] 🔒 Trees and Graphs
+- [ ] 👑 BOSS: Solve a Challenging DSA Problem
+
+**Reward:** Problem-Solver XP
+
+</details>
+
+<details>
+<summary>🌐 QUEST 03 — FULL-STACK KINGDOM</summary>
+
+- [x] 🌱 HTML and CSS
+- [ ] 🔒 JavaScript Mastery
+- [ ] 🔒 React Development
+- [ ] 🔒 Backend Engineering
+- [ ] 🔒 Database Integration
+- [ ] 👑 BOSS: Deploy a Full-Stack Application
+
+**Reward:** Full-Stack XP
+
+</details>
+
+<details>
+<summary>🤖 QUEST 04 — AI FRONTIER</summary>
+
+- [x] 🌱 Explore AI Concepts
+- [ ] 🔒 AI API Integration
+- [ ] 🔒 LLM-Powered Applications
+- [ ] 🔒 AI Automation
+- [ ] 👑 BOSS: Launch an AI-Powered Project
+
+**Reward:** AI Explorer XP
+
+</details>
+
+### 🏆 ACHIEVEMENT HALL
+
+| Achievement | Unlock Condition |
+|---|---|
+| ⚔️ Code Warrior | Solve your first coding challenge |
+| 🧩 Logic Master | Complete a DSA milestone |
+| 🛠️ Builder | Finish a personal project |
+| 🚀 Launch Master | Deploy a project |
+| 🌟 Open-Source Hero | Make your first open-source contribution |
+
+### 📜 CURRENT MISSION
+
+> **Main Quest:** Become a stronger software engineer through Java, DSA, AI, and full-stack development.
+
+`[ LEARN ] ━━━ [ BUILD ] ━━━ [ DEBUG ] ━━━ [ LEVEL UP ]`
+
+<p align="center">
+  <i>Every bug is a mini-boss. Every project unlocks a new ability.</i>
 </p>
 
 ## 🧰 Tech Stack

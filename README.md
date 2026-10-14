@@ -66,26 +66,29 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 
 ---
 
+
 ## 🌐 Contribution Activity
 
-[Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/dhanushkaran5)
+[![Dhanush's GitHub Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=dhanushkaran5&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/dhanushkaran5)
 
 ---
 
 
 ## 🐍 My GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
 
-## 📜 Certifications & Learning
+## 🤝 Beyond Coding
 
-- **NPTEL** — The Joy of Computing Using Python
-- **Infosys Springboard** — Data Structures and Algorithms Using Python
-- **AWS** — Foundations of Prompt Engineering
-- **IBM** — Generative AI Essentials: Using LLMs to Work with Data
+- 🌱 Continuously learning new technologies and exploring innovative ideas.
+- 🧩 Enjoy solving challenges and improving logical thinking.
+- 🤝 Interested in teamwork, collaboration, and knowledge sharing.
+- 📚 Focused on personal growth and continuous improvement.
+- 🚀 Passionate about building meaningful solutions to real-world problems.
+
 
 ## 🎯 Current Learning Goals
 

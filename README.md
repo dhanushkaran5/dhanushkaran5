@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Dhanush Karan M
 
 ### Aspiring Software Engineer · Java · Full-Stack Development

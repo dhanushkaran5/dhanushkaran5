@@ -1,4 +1,4 @@
-# Dhanush Karan M
+# DhanushKaran M
 
 **Aspiring Software Engineer | Java | Full-Stack Development**  
 *Code • Learn • Solve • Repeat*

@@ -1,7 +1,7 @@
 # DhanushKaran M
 
 **Aspiring Software Engineer | Java | Full-Stack Development**  
-*Code • Learn • Solve • Repeat*
+Commit to Growth. Push Beyond Limits.
 
 ![Dhanush Karan M — developer profile image](https://raw.githubusercontent.com/dhanushkaran5/dhanushkaran5/main/Anime%20Developer%20Workspace%20at%20Night.png)
 
@@ -54,7 +54,12 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 
 [![GitHub streak](https://streak-stats.demolab.com?user=dhanushkaran5&theme=tokyonight&hide_border=true)](https://github.com/dhanushkaran5)
 
-*Statistics are provided by external services and may occasionally be unavailable.*
+<p align="center">
+  <i>"My journey is still compiling... 🚀"</i>
+  <br/>
+  <b>Code. Commit. Evolve.</b>
+</p>
+
 
 ---
 
@@ -119,13 +124,25 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 
 ---
 
-## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-dhanushkaran5-181717?style=for-the-badge&logo=github)](https://github.com/dhanushkaran5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanush%20Karan%20M-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanushkaran-m-35ab77330)
-[![LeetCode](https://img.shields.io/badge/LeetCode-DK__karan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DK_karan/)
+## 📫 Let's Connect
 
-*“Small steps. Clean code. Consistent progress.”*
+<p align="center">
+  <a href="mailto:logeshdhanushkaran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/dhanushkaran-m-35ab77330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/dhanushkaran5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  💬 Open to opportunities, collaboration, and exciting projects!
+</p>
+
 ## ⭐ Support My Work
 
 If you find my projects helpful or interesting, please consider giving them a ⭐!

@@ -171,14 +171,13 @@ Your support motivates me to keep learning, building, and sharing! 💙
 
 
 <p align="center">
-  
   <b>Thanks for visiting my profile! 👋</b>
   <br/>
   <i>Building my future, one commit at a time. 💻</i>
   <br/><br/>
   <img
     src="https://img.shields.io/badge/Code-Solve%20Repeat-2ea44f?style=for-the-badge"
-    alt="Code Solve Repeat"
+    alt="Failure is a breakpoint, not the end of execution."
   />
 </p>
 

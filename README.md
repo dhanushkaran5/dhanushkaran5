@@ -167,3 +167,14 @@ Your support motivates me to keep learning, building, and sharing! 💙
   <b>while(alive) { learn(); build(); repeat(); }</b>
 </p>
 
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+  <br/>
+  <i>Building my future, one commit at a time. 💻</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Solve-Repeat-2ea44f?style=for-the-badge" alt="Code Solve Repeat"/>
+</p>
+
+

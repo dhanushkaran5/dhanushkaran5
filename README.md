@@ -41,7 +41,7 @@ I'm a final-year **Artificial Intelligence and Data Science student** focused on
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
 **Tools & Platforms**  
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,linux)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,aws,vercel)
 
 **Core Computer Science:** `OOP` · `Data Structures & Algorithms` · `DBMS` · `Operating Systems` · `Computer Networks` · `Problem Solving`
 
